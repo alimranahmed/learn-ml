@@ -1,6 +1,8 @@
 # Learning Machine Learning(ML) using Python
 Followed [Udemy: Complete Machine Learning & Data Science Bootcamp](https://www.udemy.com/course/complete-machine-learning-and-data-science-zero-to-mastery/)
 
+Course Github Repo: [mrdbourke/zero-to-mastery-ml](https://github.com/mrdbourke/zero-to-mastery-ml)
+
 ### Requirements
 1. [Miniconda](https://docs.conda.io/en/latest/miniconda.html)
 
