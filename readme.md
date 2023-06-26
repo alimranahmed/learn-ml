@@ -7,7 +7,7 @@ Followed [Udemy: Complete Machine Learning & Data Science Bootcamp](https://www.
 ### Usages
 1. Clone this repo
 2. Go inside the project directory
-3. create environment using `conda env create -f environment.yml`
+3. create environment using `conda env create --prefix ./env  -f environment.yml`
 4. Run `conda activate ./env`
 5. Run `jupyter notebook`
 6. The browser will open the [Jupyter notebook](https://jupyter.org)
